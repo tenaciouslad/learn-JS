@@ -1,0 +1,42 @@
+5:00 AM - 5:30 AM: Morning Routine
+5:30 AM - 7:30 AM: JavaScript Study (2 hours)
+
+7:30 AM - 7:45 AM: Short Break
+
+7:45 AM - 8:45 AM: DSA (1 hour)
+
+8:45 AM - 9:15 AM: Breakfast
+
+9:15 AM - 10:45 AM: DSA (1 hour 30 minutes)
+
+10:45 AM - 11:00 AM: Short Break
+
+11:00 AM - 12:00 PM: GATE PYQs (1 hour)
+
+12:00 PM - 12:30 PM: Short Break
+
+12:30 PM - 1:00 PM: Lunch
+
+1:00 PM - 2:30 PM: GATE PYQs (1 hour 30 minutes)
+
+2:30 PM - 2:45 PM: Short Break
+
+2:45 PM - 4:15 PM: DSA (1 hour 30 minutes)
+
+4:15 PM - 4:30 PM: Short Break
+
+4:30 PM - 5:30 PM: Android Studio (1 hour)
+
+5:30 PM - 6:30 PM: Gym
+
+6:30 PM - 7:00 PM: Evening Break
+
+7:00 PM - 8:30 PM: GATE PYQs (1 hour 30 minutes)
+
+8:30 PM - 8:45 PM: Short Break
+
+8:45 PM - 9:45 PM: Dinner
+
+9:45 PM - 11:15 PM: DSA (1 hour 30 minutes)
+
+11:15 PM: Relax and prepare for the next day
